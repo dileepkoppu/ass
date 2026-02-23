@@ -1,0 +1,153 @@
+Anjani Dileep Koppu  
+
+   Hyderabad| +91 9381522269 | anjanidileepkoppu@gmail.com | /in/koppu-anjani-dileep/ 
+
+ 
+
+PROFESSIONAL SUMMARY  
+
+Data Engineer with 4 years of experience in building, enhancing, and supporting scalable ETL/ELT pipelines using Python, PySpark, and SQL. Hands-on experience with Azure Databricks, Dataiku, Snowflake, and cloud data platforms on Azure and AWS. Strong understanding of Lakehouse and Medallion architectures, data quality checks, and production support. Proven ability to collaborate with cross-functional teams and support analytics and reporting use cases in Agile environments. 
+
+TECHNICAL SKILLS  
+
+Programming Languages: Python, SQL, PySpark 
+
+Databases: MySQL, Oracle SQL 
+
+Cloud Technologies: Azure, AWS 
+
+Big Data Technologies:  Databricks, Hadoop, HDFS , Dataiku 
+
+AI/ML & Generative AI: LangChain, Retrieval-Augmented Generation (RAG), Generative AI  
+
+Other Tools: Snowflake, Teradata, DataStage, Data Vault 2.0 
+
+PROFESSIONAL EXPERIENCE  
+
+  
+
+Data Engineer                                                                                                       August 2025 – Present 
+
+Space Inventive | Client: Novartis                                
+Project Name:  MARKET ACCESS 
+
+Project Description:  
+
+Working on the Market Access enterprise data integration and reporting platform, leveraging Dataiku for ETL processing and Snowflake as the cloud data warehouse. The curated data supports Power BI dashboards used by business stakeholders for market access analytics and decision-making. The project emphasizes reliable data pipelines, accurate data modeling across Snowflake layers, and consistent data availability for reporting teams. 
+
+Responsibilities:  
+
+Working on Dataiku ETL operations, including refreshing, monitoring, and enhancing production jobs to ensure smooth and reliable daily data loads. 
+
+Performing basic troubleshooting for data mismatches and coordinating with source teams when upstream data issues are identified. 
+
+Collaborated with business analysts, reporting teams, and cross-functional stakeholders to gather requirements and translate them into scalable ETL solutions. 
+
+Supported Power BI reporting teams by ensuring clean, well-structured, and refresh-ready datasets in Snowflake. 
+
+Technologies used:  Dataiku, Snowflake, Python, Power Bi 
+
+ 
+
+Software Engineer                                                                                                 June 2024 – July 2025 
+
+Nisum Technologies, inc  | Client: Williams-Sonoma, Inc.                               
+Project Name: WSI-Thames 
+
+Project Description:  
+
+Built and enhanced data pipelines using Medallion Architecture to process real-time ingested data from Oracle source systems via Kafka into Snowflake. After ingestion into L1 (Raw), batch processing workflows were designed to transform, cleanse, and curate the data for business consumption and analytics. 
+
+Responsibilities:  
+
+Designed and developed Azure Databricks (ADB) Jobs based on the Medallion Architecture to enable scalable batch processing on Snowflake. 
+
+Enhanced existing data pipelines by incorporating evolving business requirements, including schema updates and transformation logic adjustments to support new reporting and analytics needs. 
+
+Implemented metadata-driven dynamic SQL execution using ADF Lookup activities and Snowflake stored procedures to ensure reusability and flexibility. 
+
+Managed schema evolution and maintained data quality and integrity across real-time ingestion and batch transformation stages. 
+
+Collaborated closely with data architects, engineers, and business stakeholders to align the pipeline design with evolving data models. 
+
+Performed end-to-end validation and functional testing for all new and enhanced pipelines, ensuring consistency and reliability. 
+
+Technologies used: Azure Data Factory (ADF), Azure Databricks, Snowflake, Kafka 
+
+ 
+
+Project Name: Omi-Search 
+
+Nisum Technologies, inc | Client: Prologis 
+
+Project Description:  
+
+Developed a search application that integrates semantic search using OpenAI embeddings and faceted search using metadata, designed to index web pages, documents (PDF, PowerPoint, CSV), and optimize search results based on user feedback. 
+
+Responsibilities:  
+
+Extracted and processed data from various sources, including web pages, PDFs, and CSV files. 
+
+Used OpenAI embedding models to create semantic vector representations of the extracted content. 
+
+Implemented semantic and faceted search functionalities to improve search accuracy and relevance. 
+
+Enhanced search results by utilizing Azure OpenAI services and Pinecone vector databases for efficient similarity searches. 
+
+Technologies used: Python, AWS, Generative AI, Vue Js, Azure Devops CI/CD, Git, Python, LLM and Hugging Face models.  
+
+ 
+
+Programmer Analyst                                                                                                  May 2022 – June 2024                    
+
+Cognizant Technology Solutions | Client: AB InBev 
+
+Project Name: ABI-NAZ-AZURE 
+
+Project Description:  
+
+Worked on the migration of legacy systems like DataStage and Teradata to Azure services such as Azure Data Factory (ADF), Azure Databricks (ADB), and Snowflake. Developed ETL pipelines to extract, transform, and load data into the cloud, ensuring seamless data migration and integration with modern cloud platforms. 
+
+Responsibilities:  
+
+Created Pipelines in ADF using Linked Services, Datasets, and Activities to Extract, Transform, and load data from various sources like Azure SQL and Blob storage.  
+
+Implemented various transformations in ADF like getting metadata, copy activity, delete activity, lookup, for each set variable.  
+
+Developed and Scheduled pipelines using triggers such as Event Trigger, Schedule Triggered, and Tumbling Window Trigger in Azure Data Factory.  
+
+Responsible for monitoring, creating alerts, and troubleshooting Azure Data Factory pipelines. Implemented GitHub for Version Control of Source Code.  
+
+Used medallion architecture to design and implement the modernized Databricks Unity Catalog.  
+
+Worked with a variety of data sources, including oracle tables and CSV, Parquet files, to load data into Databricks Unity Catalog.  
+
+Technologies used: Pyspark, Azure Data Factory, Azure Databricks, Snowflake, Teradata, DataStage. 
+
+ 
+
+Associate Engineer                                                                                                      Jan 2022 – May 2022                    
+
+Cognizant  
+
+Responsibilities:  
+
+Trained in Informatica, Hadoop, and PySpark, showcasing data integration and transformation proficiency.  
+
+  
+
+EDUCATION  
+
+Bachelor of Technology in Electronics and Communication Engineering from 
+
+ Sri Chandrasekhar Endra Saraswathi Viswa Mahavidyalaya Kanchipuram in 2022.  
+
+CERTIFICATIONS  
+
+Databricks Certified Data Engineer Associate  
+
+Microsoft Certified Azure Data Fundamentals  
+
+Databricks Lakehouse Fundamentals Databricks Lakehouse Fundamentals   
+
+ 
